@@ -4,5 +4,13 @@
     <string name="app_name">CashHoppers</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="log_in_head_text">LOG IN</string>
+    <string name="log_in_button_text">LOG IN</string>
+    <string name="log_in_email_tf">Email</string>
+    <string name="log_in_pass_tf">Password</string>
+    <string name="reset_pass_text">Forgot your Password?</string>
+    <string name="reset_pass_linc"><b>Reset it.</b></string>
+    <color  name="background">#EFEFEF</color>
+    <color  name="white">#FFFFFF</color>
 
 </resources>
